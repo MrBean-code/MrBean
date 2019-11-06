@@ -8,9 +8,9 @@
          	exit("install requests and try again ...")
          
       banner= " " "
-██╗██╗██ ██ ██╗ Author : Mr.Bean
+██╗██╗██ ██ ██╗ Author : MrBean
 ██╚██╗██╔██╔══██╗ Date   : 2019 - 05 - 11
-██╚██ █╔ ██║██║ Tools  : aoXMr.Bean V.1.0
+██╚██ █╔ ██║██║ Tools  : aoXMrBean V.1.0
 ██╔══██║██╔██╗██║██ Github : /MrBean-code
 ██║██║██╔╝ ██╗██ ██ ██╔
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════
